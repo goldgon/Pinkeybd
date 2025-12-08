@@ -2,8 +2,10 @@
 #include <dt-bindings/zmk/bt.h>
 #include "pinkeybd-layer.dtsi"
 
-#define ZMK_POINTING_DEFAULT_SCRL_VAL 80
 
+
+#define ZMK_POINTING_DEFAULT_SCRL_VAL 80
+//
 &lt {
     tapping-term-ms = <140>;
 };
