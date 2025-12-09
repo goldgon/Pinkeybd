@@ -1,9 +1,8 @@
 include:
   - board: seeeduino_xiao_ble
-    shield: Pyuron_R rgbled_adapter
+    shield: pinkeybd_right
     snippet: studio-rpc-usb-uart
   - board: seeeduino_xiao_ble
-    shield: Pyuron_L rgbled_adapter
+    shield: pinkeybd_left
   - board: seeeduino_xiao_ble
     shield: settings_reset
- 
