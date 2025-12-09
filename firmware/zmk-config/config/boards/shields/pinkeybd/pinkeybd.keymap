@@ -3,7 +3,6 @@
 #include "pinkeybd-layer.dtsi"
 
 
-
 #define ZMK_POINTING_DEFAULT_SCRL_VAL 80
 //
 &lt {
